@@ -27,7 +27,7 @@ label{
 
 input[type="text"] {
     margin: 15px;
-    width:35%;
+    width:45%;
     max-width: 46rem;
     padding: 1.3rem 2rem 1.3rem 5.6rem;
     background:#fff url(https://picular.co/4f2eab5b295c76fbe5a3d419095e8b7c.svg) no-repeat 1.8rem 50%;
@@ -39,7 +39,6 @@ input[type="text"] {
 
 button {
     padding: 10px 20px;
-    background-color: #0074d9;
     color: #fff;
     border: none;
     border-radius: 4px;
